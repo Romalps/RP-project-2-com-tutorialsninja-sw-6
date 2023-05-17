@@ -1,4 +1,4 @@
-package com.cucumber.steps;
+package com.tutorialsninja.steps;
 
 import com.tutorialsninja.pages.DesktopPage;
 import com.tutorialsninja.pages.HomePage;

@@ -1,4 +1,4 @@
-package com.cucumber.runner;
+package com.tutorialsninja.runner;
 
 
 import com.cucumber.listener.Reporter;

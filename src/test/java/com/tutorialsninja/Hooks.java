@@ -1,4 +1,4 @@
-package com.cucumber;
+package com.tutorialsninja;
 
 import com.cucumber.listener.Reporter;
 import com.tutorialsninja.propertyreader.PropertyReader;

@@ -1,27 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7515e5-c6f4-43f2-9386-43fb8ecbafe9" name="Changes" comment="" />
+    <list default="true" id="bd7515e5-c6f4-43f2-9386-43fb8ecbafe9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/browserfactory/ManageBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/AccountLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/AccountLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/AccountRegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/AccountRegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/CheckoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/ComponentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/ComponentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/DesktopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/DesktopPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/LaptopsAndNotebooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/LaptopsAndNotebooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/MacBookPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/MacBookPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/ShoppingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/pages/ShoppingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/propertyreader/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/propertyreader/PropertyReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorialsninja/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/runner/RegressionTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/runner/RegressionTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/runner/SanityTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/runner/SanityTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/runner/SmokeTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/runner/SmokeTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/DesktopsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/DesktopsSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/LaptopAndNotebookSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/LaptopAndNotebookSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/MyAccountsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/MyAccountsSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/TopMenuSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tutorialsninja/steps/TopMenuSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/Desktops.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/Desktops.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/LaptopsAndNotebooks.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/LaptopsAndNotebooks.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/MyAccounts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/MyAccounts.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/TopMenu.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/TopMenu.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Pp8F8lqqU5aE0Xrg14sD10dClZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="JUnit.RegressionTestRunner">
+    <configuration name="Scenario: verify that user Register Account successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/MyAccounts.feature" />
+      <option name="GLUE" value="com.tutorialsninja" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="project-2-com-tutorialsninja-sw-6" />
+      <option name="NAME_FILTER" value="^verify that user Register Account successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^verify that user Register Account successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: verify that user Register Account successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: verify that user place order successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/LaptopsAndNotebooks.feature" />
+      <option name="GLUE" value="com.tutorialsninja" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="project-2-com-tutorialsninja-sw-6" />
+      <option name="NAME_FILTER" value="^verify that user place order successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^verify that user place order successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: verify that user place order successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: verify that user should Login and Logout successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/MyAccounts.feature" />
+      <option name="GLUE" value="com.tutorialsninja" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="project-2-com-tutorialsninja-sw-6" />
+      <option name="NAME_FILTER" value="^verify that user should Login and Logout successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^verify that user should Login and Logout successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: verify that user should Login and Logout successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: verify user should navigate to Login page successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/MyAccounts.feature" />
+      <option name="GLUE" value="com.tutorialsninja" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="project-2-com-tutorialsninja-sw-6" />
+      <option name="NAME_FILTER" value="^verify user should navigate to Login page successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^verify user should navigate to Login page successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: verify user should navigate to Login page successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-2-com-tutorialsninja-sw-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialsninja.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tutorialsninja.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorialsninja.runner.RegressionTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegressionTestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: verify that user should Login and Logout successfully" />
+        <item itemvalue="Cucumber Java.Scenario: verify that user Register Account successfully" />
+        <item itemvalue="Cucumber Java.Scenario: verify user should navigate to Login page successfully" />
+        <item itemvalue="Cucumber Java.Scenario: verify that user place order successfully" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +187,16 @@
       <updated>1684142555832</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
